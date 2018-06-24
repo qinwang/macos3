@@ -1,0 +1,25 @@
+#!/bin/bash
+source ./github/git_add_commit.sh
+
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.aa
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ab
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ac
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ad
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ae
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.af
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ag
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ah
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ai
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.aj
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ak
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.al
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.am
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.an
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ao
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ap
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.aq
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.ar
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.as
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.at
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.au
+git_add_commit Adobe_Acrobat_Pro_DC_2017.009.20044.2018062415.tar.gz.av
